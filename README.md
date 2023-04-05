@@ -1,1 +1,0 @@
-This is Jung Seung Hwan's TECH blog.
