@@ -421,3 +421,7 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+
+
+favicon: /assets/favicon_io/favicon.ico
+apple_touch_icon: /assets/favicon_io/logo.png
